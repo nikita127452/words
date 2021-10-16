@@ -1,0 +1,15 @@
+ul li a{
+    color: rgb(52, 7, 255);
+}
+    a{
+        text-decoration:none;
+    }
+ul{
+    list-style-type: square;
+}
+   h1{
+       color: rgb(4, 69, 248);
+   } 
+   h1,h3{
+       text-align-last: center;
+   }

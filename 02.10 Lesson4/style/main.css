@@ -1,0 +1,34 @@
+span{
+    color: aqua;
+    
+}
+h1{
+    text-align: center;
+    
+}
+img{
+    height: 250px;
+    width: 300px;
+}
+.main{
+    width: 1800px;
+    height: 800px;
+    border-spacing: 25px;
+    margin: 15px auto;
+    
+}
+.main-left{
+    width: 450px;
+    border: 1px solid black;
+}
+.main-right{
+    width: 1250px;
+    border: 1px solid black;
+    
+}
+li{
+    list-style-type: none;
+}
+table{
+    box-shadow: 5p, -54, 31px, -26px  black;
+}

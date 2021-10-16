@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.main{
+    background: rgb(250, 0, 146);
+    width: 300px;
+    height: 50px;
+  text-align: center;
+}
+.part{
+    background: rgb(229, 255, 0);
+    width: 300px;
+    height: 50px;
+  
+    text-align: center;
+}
+.git{
+    background: rgb(30, 255, 0);
+    width: 300px;
+    height: 50px;
+     
+    
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+body{
+    background-color: brown;
+}
+header{
+margin: 50px 0 0 300px;
+
+}
+.ju, .yu{
+    width: 300px;
+    margin: 50px 0 0 30px;
+
+}
+.gree{
+    background: rgb(38, 0, 253);
+    width: 100px;
+    height: 50px;
+     float: left;
+  
+}
+.kal{
+    background: rgb(0, 238, 255);
+    width: 100px;
+    height: 50px;
+     float: left;
+
+}
+.gl{
+    background: rgb(255, 0, 157);
+    width: 100px;
+    height: 50px;
+    float: left;
+}
+.te{
+    background: rgb(255, 187, 0);
+    width: 300px;
+    height: 50px;
+    float: left;
+
+}
+.tw{
+    background: rgb(0, 0, 0);
+    width: 150px;
+    height: 50px;
+    float: left;
+}
+.tq{
+    background: rgb(183, 0, 255);
+    width: 150px;
+    height: 50px;
+    float: left;
+}
+.footer{
+   margin: 50px 0 0 300px;
+   width: 500px;  
+}
+.ga{
+    background: rgb(21, 255, 0);
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.gs{
+    background: rgb(9, 43, 231);
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.gd{
+    background: rgb(1, 204, 255);
+    width: 50px;
+    height: 50px;
+    float: left;
+}
